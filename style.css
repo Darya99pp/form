@@ -1,0 +1,37 @@
+.Circle{
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: 1px 
+    /* float: right; */
+}
+
+button {
+    display: block;
+}
+label, input {
+    padding: 4px;
+    margin: 10px;
+    color: rgb(14, 199, 14);
+}
+
+form{
+    display: block;
+    
+}
+
+.container{
+    display: flex;
+
+}
